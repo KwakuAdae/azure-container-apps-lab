@@ -1,0 +1,4 @@
+# Copy to terraform.tfvars and edit (terraform.tfvars is git-ignored)
+location = "eastus"
+prefix   = "acalab"
+acr_sku  = "Basic"
